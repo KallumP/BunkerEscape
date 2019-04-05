@@ -1,0 +1,402 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Bunker Escape
+</name>
+</assembly>
+<members>
+<member name="T:Bunker_Escape.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._1___Pressure">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._10___Pressure">
+<summary>
+  Looks up a localized string similar to 1,390,70,false
+1,390,120,false
+1,390,170,false
+1,390,320,false
+1,390,370,false
+1,390,420,false
+1,570,70,false
+1,570,120,false
+1,570,170,false
+1,570,320,false
+1,570,370,false
+1,570,420,false
+0,850,80,false
+0,850,440,false.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._11___Pressure">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._12___Pressure">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._2___Pressure">
+<summary>
+  Looks up a localized string similar to 0,510,80,false
+0,510,460,false
+1,110,390,false
+1,150,390,false
+1,190,390,false
+1,230,390,false
+1,270,390,false
+1,310,390,false
+1,350,390,false
+1,390,390,false
+1,430,390,false
+1,470,390,false
+1,510,390,false
+1,550,390,false
+1,590,390,false
+1,630,390,false
+1,670,390,false
+1,710,390,false
+1,750,390,false
+1,790,390,false
+1,830,390,false
+1,110,130,false
+1,150,130,false
+1,190,130,false
+1,230,130,false
+1,270,130,false
+1,310,130,false
+1,350,130,false
+1,390,130,false
+1,430,130,false
+1,4 [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._3___Pressure">
+<summary>
+  Looks up a localized string similar to 0,512,155,false
+0,322,394,false
+0,672,394,false
+.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._4___Pressure">
+<summary>
+  Looks up a localized string similar to 1,70,80,false
+1,70,450,false
+1,890,80,false
+1,890,450,false
+2,800,90,false
+2,800,440,false.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._5___Pressure">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._6___Pressure">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._7___Pressure">
+<summary>
+  Looks up a localized string similar to 1,70,80,false
+1,70,450,false
+1,890,80,false
+1,890,450,false.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._8___Pressure">
+<summary>
+  Looks up a localized string similar to 2,850,90,true
+2,850,450,true
+2,510,288,true.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources._9___Pressure">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Attack_Got">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Attack_NotGot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Bomb_Got">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Bomb_NotGot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Character">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Character_Damaged">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Character_Tunic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Cracked_wall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Door_Down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Door_Left">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Door_Right">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Door_Up">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Down_Bombed_Down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Enemy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Fire_Room">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Fire_Symbol">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Fireball">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Heart_Empty">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Heart_Full">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Ice_Room">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Ice_Symbol">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Keys_Got">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Keys_NotGot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Left_1_Lock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Left_Bombed_Down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Minimap_Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Opening_Room">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.PressurePlate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.PressurePlateDown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Puzzle_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Puzzle_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Puzzle_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Puzzle_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Puzzle_Door">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.quiit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.respawn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Right_2_Lock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Right_Bombed_Down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.rock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Settings_Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Spikes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Tunic_Got">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Tunic_NotGot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Up_3_Lock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Up_Bombed_Down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Water_Room">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.Water_Symbol">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.You_Died">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bunker_Escape.My.Resources.Resources.You_Win">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

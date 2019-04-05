@@ -1,0 +1,15 @@
+Name, Got?, Location global, Location room
+
+
+
+
+
+object number meanings
+0 = Pressure plate
+1 = fire
+2 = enemy
+3 = rusty pressure plate
+
+Door number meannings
+
+0 = 
